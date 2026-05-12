@@ -25,3 +25,4 @@ app.listen(PORT, () => {
   console.log(`✅ Atlas-IA Backend running on http://localhost:${PORT}`);
   console.log(`📊 Dashboard: http://localhost:${PORT}`);
 });
+// Force rebuild Tue 12 May 16:47:54 CEST 2026
